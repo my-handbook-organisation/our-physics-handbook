@@ -13,6 +13,7 @@
 ```
 ^^^
 
+
 **Dark Matter Search** 
 
 [{fa}`github,style=fab`](https://www.github.com)</br>
@@ -35,7 +36,7 @@ The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES
 ```
 ^^^
 
-**`<PROJECT 2 NAME>`**
+**`Smallholder Agriculture `**
 
 [{fa}`github,style=fab`](https://www.github.com)</br>
 
