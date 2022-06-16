@@ -15,7 +15,8 @@ linked from the icons in the panels below each picture.
 ![<RESEARCHER 1 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 ^^^
 
-**`<RESEARCHER 1 NAME>`**  
+
+**Maciek**  
 _Research Software Engineer_  
 [{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
