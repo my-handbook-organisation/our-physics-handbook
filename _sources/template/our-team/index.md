@@ -8,7 +8,8 @@ linked from the icons in the panels below each picture.
 
 (team)=
 ## Meet the team
-````{panels}
+:::{panels}
+:container: +full-width
 :column: col-lg-4 px-2 py-2
 
 ---
