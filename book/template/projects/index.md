@@ -13,7 +13,7 @@
 ```
 ^^^
 
-**`<PROJECT 1 NAME>`** 
+**Dark Matter Search** 
 
 [{fa}`github,style=fab`](https://www.github.com)</br>
 
