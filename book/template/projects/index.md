@@ -13,7 +13,7 @@
 ```
 ^^^
 
-**`<PROJECT 1 NAME>`** 
+Smallholder Agriculture 
 
 [{fa}`github,style=fab`](https://www.github.com)</br>
 
